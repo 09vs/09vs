@@ -6,8 +6,7 @@ Here are some ideas to get you started:!-->
 
 <h1 align="center">Hi 👋, I'm Vishank Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coder"width="400"src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952j32ixnzrih9cmaf7di6lciw4m0bht9663saiabs9&ep=v1_gifs_search&rid=200w.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=09vs&label=Profile%20views&color=0e75b6&style=flat" alt="09vs" /> </p>
+<img align="right" alt="coder"width="400"src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="09vs" /> </p>
 
 - I'm currently mastering frontend development and soon backend too:) 
 
