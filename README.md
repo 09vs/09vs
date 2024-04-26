@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:!-->
 
-<h1 align="center">Hi 👋, I'm Vishank Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 ">Hi 👋, I'm Vishank Sharma</h1>
+<h3 >A passionate frontend developer from India</h3>
 <img align="right" alt="coder"width="400"src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="09vs" /> </p>
 
 - I'm currently mastering frontend development and soon backend too:) 
